@@ -1,6 +1,7 @@
 # Ride Booking App
 
-A Flutter app for booking rides, built as part of a technical test, made by Ivan Territo.
+> [!NOTE]
+> A Flutter app for booking rides, built as part of a technical test, made by Ivan Territo.
 
 ## Features
 - Location selection using Google Maps SDK. It is possible to select a point in the map tapping on it, or inserting an address in the search bar.
@@ -37,7 +38,7 @@ A Flutter app for booking rides, built as part of a technical test, made by Ivan
   GMSServices.provideAPIKey("YOUR_API_KEY")
   ```
 - **GOOGLE_MAPS_API**: In `constants/strings.dart`, edit:
-  ```string
+  ```dart
   final String GOOGLE_MAPS_API = "YOUR_API_KEY";
   ```
   And in `ios/Runner/Info.plist`:
