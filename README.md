@@ -1,5 +1,11 @@
 # Ride Booking App
 
+### Screenshots
+<img src="https://github.com/user-attachments/assets/5a150fa3-aa2c-4d5b-9620-1c1394468221" width="200">
+<img src="https://github.com/user-attachments/assets/4d8ae773-6476-4167-978a-76a6e522e1e1" width="200">
+<img src="https://github.com/user-attachments/assets/f179df6f-12c4-4cfa-9208-8902e195b904" width="200">
+<img src="https://github.com/user-attachments/assets/7271d797-9401-4b97-9fef-d0ad917f1bd5" width="200">
+
 > [!NOTE]
 > A Flutter app for booking rides, built as part of a technical test, made by Ivan Territo.
 
