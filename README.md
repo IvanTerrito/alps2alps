@@ -48,9 +48,11 @@
   ```
 
 4. Install dependencies:
-   flutter pub get
+   ```dart
+    flutter pub get
 
 5. Run the app:
+   ```dart
    flutter run
 
 ## Project Structure
